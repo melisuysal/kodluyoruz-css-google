@@ -1,0 +1,91 @@
+header{
+    padding-top: 100px;
+    display: table;
+    margin: 0 auto;
+}
+
+.container{
+    display: table;
+    margin: 0 auto;
+    width: 1000px;
+}
+
+p,input, .btn-area{
+    display: table;
+    margin: 0 auto;
+    margin-bottom: 5px;
+}
+
+#search-area{
+    width: 400px;
+}
+
+.lucky-btn{
+    float: left;
+    width: 120px;
+    margin-left: 3px;
+}
+
+.search-btn{
+    float: left;
+    width: 120px;
+    margin-right: 3px;
+}
+
+.first-box{
+    background-color: #7EE5DA; 
+    width:35%;
+    text-align: center;
+    float: left;
+    height: 85px;
+    margin-right: 5px;
+    padding-top: 20px;
+}
+
+.second-box{
+    float: left;
+    background-color: #70CCC2; 
+    width: 25%;
+    text-align: center;
+    height: 105px;
+    margin-right: 5px;
+}
+
+.third-box{
+    background-color: #62B3AA; 
+    width: 39%;
+    float: left;
+    text-align: center;
+    height: 95px;
+    padding-top: 10px;
+}
+
+.subs-area{
+    display: table;
+    margin: 0 auto;
+    width: 39%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.archive-a{
+    float: left;
+    width: 75px;
+}
+
+.subs-btn{
+    float: left;
+    width: 75px;
+}
+
+#email-area{
+    text-align: start;
+    appearance: auto;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+}
